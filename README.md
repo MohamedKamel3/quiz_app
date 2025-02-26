@@ -1,16 +1,71 @@
-# quiz_app
 
-A new Flutter project.
+<h1 align="center">
+  <br>
+</h1>
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#how-to-use">How To Use</a> •
+</p>
 
-## Getting Started
+ <img src="Screenshot 2025-02-26 201407.png" alt="Main" width="200" ></img>
+  <img src="Screenshot 2025-02-26 201443.png" alt="first" width="200" ></img>
+   <img src="Screenshot 2025-02-26 201528.png" width="200" ></img>
 
-This project is a starting point for a Flutter application.
+## Key Features
 
-A few resources to get you started if this is your first Flutter project:
+ * <b>java Matrix Calculater</b>
+ * Matrix Operations:
+    - Add new matrices.
+    - Perform matrix-related operations (e.g., determinant calculation).
+    - Sort matrices.
+      
+ * Equation Solver:
+    - Solve linear equations based on matrix inputs.
+    - Display equations and results clearly.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ * Matrix Storage & History:
+    - Save matrices for later use.
+    - View previously saved matrices in the history section.
+    - Edit or delete stored matrices.
+ 
+ * User-Friendly Interface:
+    - Navigation buttons for easy access (Back, Home).
+    - Random matrix generation option.
+    - Confirmation buttons to save inputs.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ * additional features :
+    - to see this feature you must open the project from the first folder ( the folder before matrix folder )
+    - sounds
+    - logo 
+
+## How To Use
+
+unzip it and run main file ❤️
+
+* Creating a New Matrix:
+  - Click on "Add New Matrix."
+  - Enter matrix values manually or use the "Random" button.
+  - Confirm and save the matrix.
+
+* Performing Matrix Operations:
+  - Select operations like Determinant or Sorting.
+  - The app processes and displays results.
+
+* Solving Equations:
+  - Navigate to the "Solve Equations" section.
+  - Enter coefficients and constants for the system of equations.
+  - View computed results for variables.
+
+* Accessing Saved Matrices:
+  - Use the "History" section to view previously stored matrices.
+  - Edit or delete matrices as needed.
+
+* Navigation:
+  - Use Back and Home buttons for smooth transitions between screens.
+
+## Support
+
+<a href="https://buymeacoffee.com/mohamedmkaj" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+
+---
