@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <br>
+  Flutter Quiz App
 </h1>
 <p align="center">
   <a href="#key-features">Key Features</a> •
