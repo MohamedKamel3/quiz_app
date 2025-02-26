@@ -13,55 +13,40 @@
 
 ## Key Features
 
- * <b>java Matrix Calculater</b>
- * Matrix Operations:
-    - Add new matrices.
-    - Perform matrix-related operations (e.g., determinant calculation).
-    - Sort matrices.
-      
- * Equation Solver:
-    - Solve linear equations based on matrix inputs.
-    - Display equations and results clearly.
+* Question-Based Quiz:
+  - Users are presented with a series of multiple-choice questions.
+  - Each question has four possible answers.
 
- * Matrix Storage & History:
-    - Save matrices for later use.
-    - View previously saved matrices in the history section.
-    - Edit or delete stored matrices.
- 
- * User-Friendly Interface:
-    - Navigation buttons for easy access (Back, Home).
-    - Random matrix generation option.
-    - Confirmation buttons to save inputs.
+* Progress Tracking:
+  - The top of the screen shows the current question number (e.g., "Question 1 / 5").
 
- * additional features :
-    - to see this feature you must open the project from the first folder ( the folder before matrix folder )
-    - sounds
-    - logo 
+* Answer Selection:
+  - Users can select an answer by tapping on it.
+  - The selected answer changes color (orange for selected).
+
+* Navigation:
+  - After selecting an answer, users can proceed by tapping the "Next" button.
+  - The final question has a "Finish" button instead of "Next."
+
+* Quiz Completion & Score Display:
+  - At the end of the quiz, a results popup appears.
+  - The popup shows the user's score (e.g., "2 out of 5").
+  - A message provides feedback based on performance (e.g., "Better luck next time!").
+
+* Restart Option:
+  - Users can restart the quiz by tapping the "Restart" button on the results screen.
+
 
 ## How To Use
 
 unzip it and run main file ❤️
 
-* Creating a New Matrix:
-  - Click on "Add New Matrix."
-  - Enter matrix values manually or use the "Random" button.
-  - Confirm and save the matrix.
+* Start the Quiz – Read the question and select the correct answer.
+* Proceed Through Questions – Click "Next" to move to the next question.
+* Complete the Quiz – On the last question, click "Finish" to see the results.
+* View Your Score – A popup will show your score and feedback.
+* Restart the Quiz – If desired, tap "Restart" to try again.
 
-* Performing Matrix Operations:
-  - Select operations like Determinant or Sorting.
-  - The app processes and displays results.
-
-* Solving Equations:
-  - Navigate to the "Solve Equations" section.
-  - Enter coefficients and constants for the system of equations.
-  - View computed results for variables.
-
-* Accessing Saved Matrices:
-  - Use the "History" section to view previously stored matrices.
-  - Edit or delete matrices as needed.
-
-* Navigation:
-  - Use Back and Home buttons for smooth transitions between screens.
 
 ## Support
 
