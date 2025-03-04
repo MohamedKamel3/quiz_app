@@ -13,39 +13,22 @@
 
 ## Key Features
 
-* Question-Based Quiz:
-  - Users are presented with a series of multiple-choice questions.
-  - Each question has four possible answers.
-
-* Progress Tracking:
-  - The top of the screen shows the current question number (e.g., "Question 1 / 5").
-
-* Answer Selection:
-  - Users can select an answer by tapping on it.
-  - The selected answer changes color (orange for selected).
-
-* Navigation:
-  - After selecting an answer, users can proceed by tapping the "Next" button.
-  - The final question has a "Finish" button instead of "Next."
-
-* Quiz Completion & Score Display:
-  - At the end of the quiz, a results popup appears.
-  - The popup shows the user's score (e.g., "2 out of 5").
-  - A message provides feedback based on performance (e.g., "Better luck next time!").
-
-* Restart Option:
-  - Users can restart the quiz by tapping the "Restart" button on the results screen.
+* Basic Arithmetic Operations: The calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
+* Numeric Keypad: It includes a standard numeric keypad with digits from 0 to 9.
+* Simple Interface: The interface is straightforward, displaying the current input and result clearly.
+* Real-time Calculation: As seen in the second screenshot, the calculator updates the display in real-time as numbers and operations are entered.
 
 
 ## How To Use
 
 unzip it and run main file ❤️
 
-* Start the Quiz – Read the question and select the correct answer.
-* Proceed Through Questions – Click "Next" to move to the next question.
-* Complete the Quiz – On the last question, click "Finish" to see the results.
-* View Your Score – A popup will show your score and feedback.
-* Restart the Quiz – If desired, tap "Restart" to try again.
+
+* Entering Numbers: Tap the numeric buttons (0-9) to input numbers.
+* Performing Operations: Use the appropriate operation buttons (+, -, *, /) to perform calculations.
+* Viewing Results: The result of the calculation is displayed at the top of the screen. For example, in the second screenshot, "91+7" is shown, indicating that the user has entered 91 and is adding 7 to it.
+* Clearing Input: Although not visible in the screenshots, typically, there would be a clear (C) button to reset the input or clear the current calculation.
+* This calculator is designed for basic calculations, making it easy to use for everyday arithmetic tasks.
 
 
 ## Support
