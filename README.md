@@ -13,23 +13,31 @@
 
 ## Key Features
 
-* Basic Arithmetic Operations: The calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
-* Numeric Keypad: It includes a standard numeric keypad with digits from 0 to 9.
-* Simple Interface: The interface is straightforward, displaying the current input and result clearly.
-* Real-time Calculation: As seen in the second screenshot, the calculator updates the display in real-time as numbers and operations are entered.
+* Question Format: The app presents questions one at a time, with each question having multiple-choice answers.
+
+* Progress Indicator: It shows the user’s progress through the quiz, such as "Question 1/5," indicating how many questions have been answered and how many remain.
+
+* Score Tracking: After completing the quiz, the app displays the user’s score, showing how many questions were answered correctly out of the total number of questions.
+
+* User Interface: The interface is simple and user-friendly, with clear buttons for navigating to the next question or finishing the quiz.
+
+* Educational Content: The questions cover a range of topics, including geography (e.g., "What is the capital of France?"), science (e.g., "Which place is known as the Red Planet?"), and general knowledge.
+
 
 
 ## How To Use
 
 unzip it and run main file ❤️
 
+* Start the Quiz: Launch the app and begin with the first question.
 
-* Entering Numbers: Tap the numeric buttons (0-9) to input numbers.
-* Performing Operations: Use the appropriate operation buttons (+, -, *, /) to perform calculations.
-* Viewing Results: The result of the calculation is displayed at the top of the screen. For example, in the second screenshot, "91+7" is shown, indicating that the user has entered 91 and is adding 7 to it.
-* Clearing Input: Although not visible in the screenshots, typically, there would be a clear (C) button to reset the input or clear the current calculation.
-* This calculator is designed for basic calculations, making it easy to use for everyday arithmetic tasks.
+* Answer Questions: Read each question carefully and select the most appropriate answer from the given options.
 
+* Navigate: Use the "Next" button to move to the subsequent question after answering.
+
+* Complete the Quiz: Once all questions are answered, the app will show the final score.
+
+* Review Results: The user can see their performance, including the number of correct and incorrect answers.
 
 ## Support
 
