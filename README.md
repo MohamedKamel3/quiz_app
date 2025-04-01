@@ -7,9 +7,8 @@
   <a href="#how-to-use">How To Use</a> •
 </p>
 
- <img src="Screenshot 2025-02-26 201407.png" alt="Main" width="200" ></img>
-  <img src="Screenshot 2025-02-26 201443.png" alt="first" width="200" ></img>
-   <img src="Screenshot 2025-02-26 201528.png" width="200" ></img>
+ <img src="poster.png" alt="Main" ></img>
+
 
 ## Key Features
 
